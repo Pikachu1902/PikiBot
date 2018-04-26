@@ -1,10 +1,10 @@
 {
-  "name": "PikiBot",
-  "description": "Pikachu´s Bot",
+  "name": "Test",
+  "description": "Test",
   "version": "0.0.0",
-  "main": "PikiBot.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "node PikiBot.js"
+    "start": "node bot.js"
   },
   "dependencies": {
     "discord.js": "11.1.0",
