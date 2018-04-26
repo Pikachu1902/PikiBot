@@ -1,1 +1,1 @@
-worker: node PikiBot.js
+worker: node bot.js
